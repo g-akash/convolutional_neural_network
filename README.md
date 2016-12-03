@@ -20,4 +20,4 @@ In the architecture of the Conv net, we have a following layers:
 - Install `skimage` using `sudo pip install scikit-image`
 
 ## Execute:
-`python kerasCNN.py`
+`python cnn.py`
